@@ -1,0 +1,16 @@
+ul li {
+    font-size: 25px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin: 0;
+    padding: 15px;
+
+}
+
+ul {
+    margin: 0;
+    padding: 70px;
+
+}
